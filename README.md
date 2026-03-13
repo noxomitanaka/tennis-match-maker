@@ -11,7 +11,7 @@ Tennis tournament management app — Swiss Draw / Single Elimination / Round Rob
 > サーバー不要。ブラウザだけで動作。データはローカルに自動保存。
 > No server required. Works entirely in the browser. Data saved locally.
 
-**[▶ デモを試す / Try Demo](https://tennis-match-maker.vercel.app)**
+**[▶ デモを試す / Try Demo](https://tennis-match-maker-oss.vercel.app)**
 
 ---
 
@@ -33,7 +33,7 @@ Tennis tournament management app — Swiss Draw / Single Elimination / Round Rob
 
 ### 方法1: ブラウザで試す（インストール不要）
 
-[https://tennis-match-maker.vercel.app](https://tennis-match-maker.vercel.app) にアクセス。
+[https://tennis-match-maker-oss.vercel.app](https://tennis-match-maker-oss.vercel.app) にアクセス。
 
 ### 方法2: 自分でホスト（Vercel・無料）
 

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "テニス大会の組み合わせ・スコア・順位を管理するWebアプリ | Tennis tournament management app (Swiss Draw / Single Elimination / Round Robin)",
   "license": "MIT",
-  "homepage": "https://tennis-match-maker.vercel.app",
+  "homepage": "https://tennis-match-maker-oss.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/noxomitanaka/tennis-match-maker"
